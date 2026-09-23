@@ -26,6 +26,8 @@ PROVENANCE HEADER — applied to every raw output file (per Methodology A.5)
 
 - **Growth:** mobile money agents rose from 3,772 (2021) to 48,087 (2022) — already in the existing draft, reconfirmed by this pass via the same underlying MFW4A data.
 
+![Figure 2. Mobile money agents grew 12-fold in a single year](/home/user/felei/Research_Archive/WS1/docx/figures/s3_fig1_agents.png)
+
 - **GDP and employment contribution:** **no reliable Sierra Leone-specific figure identified** for FinTech as a discrete GDP or employment line, consistent with the existing draft.
 
 ## Part 2 — The structural problem
@@ -43,6 +45,9 @@ PROVENANCE HEADER — applied to every raw output file (per Methodology A.5)
 - **Expanded list of revenue-generating / traction-generating companies** (the existing draft names three: Monime, InvestED/Salone Microfinance Trust, and Klasha as a regional entrant). This pass adds two more, one of which is the single strongest traction data point found anywhere across the first three sectors assessed:
 
   1. **Vult** (Metro Cable × Velmie) — a multi-currency digital wallet / "digital banking super app" launched **28 July 2024** by Metro Cable, Sierra Leone's largest broadband ISP, built on banking-technology vendor Velmie's platform, with live integration to **Rokel Commercial Bank, GTBank, and Access Bank**. Reporting in this pass states the platform grew to **"nearly half a million users" (~475,000)** within roughly a year of launch. [Fintech.global](https://fintech.global/2024/05/24/sierra-leones-metro-cable-and-velmie-team-up-for-vult-a-revolutionary-digital-wallet/); [Fintech News Africa, "Zero to 475,000 Users"](https://fintechnews.africa/46018/fintechafrica/velmie-metro-cable-vult-super-app-growth/) — **†, both blocked, not opened**. **No reliable data identified on Vult's revenue or monetisation model** — user-growth scale alone does not establish investability; this is flagged explicitly as a gap.
+
+![Figure 1. Vult grew from zero to approximately 475,000 users in about a year](/home/user/felei/Research_Archive/WS1/docx/figures/s3_fig2_vult_growth.png)
+
   2. **Empire Solution's "Lajor"** — a digital credit product distributed in partnership with Orange Mobile Money, reported to have served approximately **70,000 clients** with **more than 500,000 loans advanced**. [Found via search among UNCDF Sierra Leone financial-inclusion articles] — **†, exact source article not pinned down in this pass, needs Stage 2 identification and direct verification.** This is a materially large, previously unlogged lending book — if verified, it is the best evidence yet in this whole assessment (across three sectors) of a Sierra Leonean fintech with real repayment/credit performance to underwrite against.
 
 - **Capital deployed:** the largest *evidenced, dated* capital deployment into Sierra Leonean financial services in this pass is **IFC's unfunded risk-sharing facility with Access Bank (Sierra Leone) Ltd, up to US$10 million in local-currency equivalent, announced 2025**, structured to support up to **US$20 million** of new SME lending. [IFC press release](https://www.ifc.org/en/pressroom/2025/ifc-provides-local-currency-support-to-access-bank-to-expand-sme-lending-in-sierra) — **†, blocked, not opened**. This is DFI guarantee/risk-sharing capital into a commercial bank's SME book, not equity into a fintech company — but it is the single most concrete, named de-risking instrument found anywhere in the assessment so far (see Part 6).

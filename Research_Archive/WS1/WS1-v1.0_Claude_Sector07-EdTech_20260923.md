@@ -22,11 +22,15 @@ PROVENANCE HEADER — applied to every raw output file (per Methodology A.5)
 
 - **Rising Academies' scale, updated and clarified:** the company now serves **300,000 students across more than 700 schools in Sierra Leone, Liberia, Ghana and Rwanda** — a multi-country footprint, not a Sierra Leone-only figure, which the existing draft does not distinguish. [Rising Academies, "Our Impact"](https://www.risingacademies.com/impact) — **†, not opened**.
 
+![Figure 1. Rising Academies' scale is real, but multi-country — not Sierra Leone-specific](/home/user/felei/Research_Archive/WS1/docx/figures/s7_fig2_rising_academies_scale.png)
+
 - **Two additional named EdTech ventures confirmed operating in Sierra Leone specifically, beyond Rising Academies — a material correction to the existing draft's single-company picture:**
   1. **uLesson** — a Nigeria-founded interactive video-tutoring platform, confirmed serving students in **Nigeria, Ghana, Sierra Leone, Liberia and The Gambia**, accessible via Android or Windows for fees as low as **US$6/month.** [via search] — **†, source not independently opened**.
   2. **Muallemi** — a smaller, pilot-stage edtech startup providing affordable, personalised tutoring in maths and science, currently supporting **more than 350 students at the Lamin and Kadie Bah Academy in Makeni**, alongside transition programmes, leadership development, mentorship and university-readiness support. [via search] — **†, not opened**.
 
 - **Literacy rate:** **48.64% (2022)**, up **16.21 percentage points from 2013** — a meaningful decade-long improvement trend. [Macrotrends](https://macrotrends.net/global-metrics/countries/sle/sierra-leone/literacy-rate) — **†, not opened**.
+
+![Figure 2. Literacy rose 16 points in under a decade](/home/user/felei/Research_Archive/WS1/docx/figures/s7_fig1_literacy.png)
 
 - **A new, government-led digital-infrastructure initiative not in the existing draft:** in 2024, the **World Bank requested EdTech Hub support** to help the Government of Sierra Leone develop a **National Digital Learning Strategy**, building on EdTech Hub's earlier support for the **One Tablet Per School (OTPS)** programme. [EdTech Hub](https://edtechhub.org/where-we-work/africa/sierra-leone/) — **†, not opened**.
 

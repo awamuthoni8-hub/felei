@@ -32,6 +32,8 @@ This is the cross-sector layer the WS1-v1.0 prompt asks for once all eight secto
 
 The table below **replaces** the ranking table in `claude_B1.docx`. Movement is shown relative to that original ranking, which was based on the earlier, thinner Sector 2–8 drafts.
 
+![Figure 1. Updated investability ranking, all eight sectors](/home/user/felei/Research_Archive/WS1/docx/figures/synth_fig1_ranking.png)
+
 | # | Sector | Verdict | Movement | Deciding evidence |
 |---|---|---|---|---|
 | 1 | **FinTech / financial inclusion** | Investable now | — (confirmed #1) | Real, organic user-scale adoption (Vult, ~475,000 users) and a real lending book (Lajor, 500,000+ loans); the only Sierra-Leone-specific, named, dated DFI de-risking instrument found in the entire assessment (IFC's ~US$10m Access Bank risk-sharing facility, 2025). Qualified by: no published revenue data for the sector's two largest platforms, and the domestic exit route (Sierra Leone Stock Exchange) closed in mid-2024. |
